@@ -3,7 +3,7 @@ Works for node 12.22.12 only. Install appropriate version for correct dependency
 
 1. clone the repo
     ```
-    git clone https://github.com/rehmanis/CSCI571-Stocks-Angular.git
+    git clone https://github.com/FaizanHaider20083/stockApp.git
     ```
 2. cd to the cloned repo
     
@@ -26,5 +26,4 @@ Works for node 12.22.12 only. Install appropriate version for correct dependency
     ```
     npm run devstart
     ```
-5. open ```Chrome``` or ```Firefox```. The App can then be started on ```http://localhost:3000/```
 
